@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
- <a href="https://leetcode.com/u/Kamal_human/" target="_blank">
+ <a href="https://leetcode.com/u/kamal723/" target="_blank">
  <img align="right" src='https://leetcard.jacoblin.cool/kamal_human?hide=ranking&border=0&radius=21' width='310"'>
 </a>
 </p>
